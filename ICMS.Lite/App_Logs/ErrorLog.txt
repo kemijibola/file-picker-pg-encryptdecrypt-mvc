@@ -1,0 +1,322 @@
+Login operation returned :  at 4/21/2018 9:49:11 PM
+4/21/2018 9:49:11 PM
+Fetch user data returned : Sucess at 4/21/2018 9:49:11 PM
+4/21/2018 9:49:11 PM
+Fetch indents returned : Successful at 4/21/2018 9:49:13 PM
+4/21/2018 9:49:13 PM
+Fetch indents returned : Successful at 4/21/2018 9:49:13 PM
+4/21/2018 9:49:13 PM
+Login operation returned :  at 4/21/2018 9:50:21 PM
+4/21/2018 9:50:21 PM
+Fetch user data returned : Sucess at 4/21/2018 9:50:21 PM
+4/21/2018 9:50:21 PM
+Fetch indents returned : Successful at 4/21/2018 9:50:23 PM
+4/21/2018 9:50:23 PM
+Fetch indents returned : Successful at 4/21/2018 9:50:23 PM
+4/21/2018 9:50:23 PM
+Login operation returned :  at 4/21/2018 9:51:51 PM
+4/21/2018 9:51:51 PM
+Fetch user data returned : Sucess at 4/21/2018 9:51:51 PM
+4/21/2018 9:51:51 PM
+Fetch indents returned : Successful at 4/21/2018 9:51:53 PM
+4/21/2018 9:51:53 PM
+Fetch indents returned : Successful at 4/21/2018 9:51:53 PM
+4/21/2018 9:51:53 PM
+Fetch user data returned : Sucess at 4/21/2018 9:53:27 PM
+4/21/2018 9:53:27 PM
+Fetch indents returned : Successful at 4/21/2018 9:53:31 PM
+4/21/2018 9:53:31 PM
+Fetch indents returned : Successful at 4/21/2018 9:53:31 PM
+4/21/2018 9:53:31 PM
+MFB upload process returned : Error occurred! Contact First Bank's support team. at 4/21/2018 9:55:21 PM
+4/21/2018 9:55:21 PM
+Login operation returned :  at 4/21/2018 10:02:33 PM
+4/21/2018 10:02:33 PM
+Fetch user data returned : Sucess at 4/21/2018 10:02:33 PM
+4/21/2018 10:02:33 PM
+Fetch indents returned : Successful at 4/21/2018 10:02:35 PM
+4/21/2018 10:02:35 PM
+MFB upload process returned : invalid user at 4/21/2018 10:03:11 PM
+4/21/2018 10:03:11 PM
+Login operation returned :  at 4/21/2018 10:06:11 PM
+4/21/2018 10:06:11 PM
+Fetch user data returned : Sucess at 4/21/2018 10:06:11 PM
+4/21/2018 10:06:11 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:13 PM
+4/21/2018 10:06:13 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:13 PM
+4/21/2018 10:06:13 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:18 PM
+4/21/2018 10:06:18 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:18 PM
+4/21/2018 10:06:18 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:19 PM
+4/21/2018 10:06:19 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:19 PM
+4/21/2018 10:06:19 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:20 PM
+4/21/2018 10:06:20 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:20 PM
+4/21/2018 10:06:20 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:22 PM
+4/21/2018 10:06:22 PM
+Fetch indents returned : Successful at 4/21/2018 10:06:22 PM
+4/21/2018 10:06:22 PM
+Login operation returned :  at 4/21/2018 10:07:59 PM
+4/21/2018 10:07:59 PM
+Fetch user data returned : Sucess at 4/21/2018 10:07:59 PM
+4/21/2018 10:07:59 PM
+Fetch indents returned : Successful at 4/21/2018 10:08:01 PM
+4/21/2018 10:08:01 PM
+Fetch indents returned : Successful at 4/21/2018 10:08:01 PM
+4/21/2018 10:08:01 PM
+Login operation returned :  at 4/21/2018 10:11:08 PM
+4/21/2018 10:11:08 PM
+Fetch user data returned : Sucess at 4/21/2018 10:11:08 PM
+4/21/2018 10:11:08 PM
+Fetch indents returned : Successful at 4/21/2018 10:11:11 PM
+4/21/2018 10:11:11 PM
+Fetch indents returned : Successful at 4/21/2018 10:11:11 PM
+4/21/2018 10:11:11 PM
+MFB upload process returned : Error occurred! Contact First Bank's support team. at 4/21/2018 10:21:01 PM
+4/21/2018 10:21:01 PM
+Login operation returned :  at 4/21/2018 10:31:24 PM
+4/21/2018 10:31:24 PM
+Fetch user data returned : Sucess at 4/21/2018 10:31:24 PM
+4/21/2018 10:31:24 PM
+Fetch indents returned : Successful at 4/21/2018 10:31:28 PM
+4/21/2018 10:31:28 PM
+Fetch indents returned : Successful at 4/21/2018 10:31:30 PM
+4/21/2018 10:31:30 PM
+Fetch user data returned : Sucess at 4/21/2018 10:49:24 PM
+4/21/2018 10:49:24 PM
+Login operation returned : Invalid username or password. at 4/21/2018 10:49:50 PM
+4/21/2018 10:49:50 PM
+Login operation returned :  at 4/21/2018 10:49:55 PM
+4/21/2018 10:49:55 PM
+Fetch user data returned : Sucess at 4/21/2018 10:49:55 PM
+4/21/2018 10:49:55 PM
+Fetch indents returned : Successful at 4/21/2018 10:49:58 PM
+4/21/2018 10:49:58 PM
+Fetch indents returned : Successful at 4/21/2018 10:49:59 PM
+4/21/2018 10:49:59 PM
+Fetch user data returned : Sucess at 4/21/2018 11:01:26 PM
+4/21/2018 11:01:26 PM
+Login operation returned :  at 4/21/2018 11:01:54 PM
+4/21/2018 11:01:54 PM
+Fetch user data returned : Sucess at 4/21/2018 11:01:54 PM
+4/21/2018 11:01:54 PM
+Fetch indents returned : Successful at 4/21/2018 11:01:57 PM
+4/21/2018 11:01:57 PM
+Fetch indents returned : Successful at 4/21/2018 11:01:57 PM
+4/21/2018 11:01:57 PM
+Fetch indents returned : Successful at 4/21/2018 11:03:10 PM
+4/21/2018 11:03:10 PM
+Fetch indents returned : Successful at 4/21/2018 11:03:10 PM
+4/21/2018 11:03:10 PM
+Fetch indents returned : Successful at 4/21/2018 11:03:40 PM
+4/21/2018 11:03:40 PM
+Fetch indents returned : Successful at 4/21/2018 11:03:40 PM
+4/21/2018 11:03:40 PM
+Fetch indents returned : Successful at 4/21/2018 11:04:50 PM
+4/21/2018 11:04:50 PM
+Fetch indents returned : Successful at 4/21/2018 11:04:50 PM
+4/21/2018 11:04:50 PM
+Fetch user data returned : Sucess at 4/21/2018 11:07:13 PM
+4/21/2018 11:07:13 PM
+Login operation returned :  at 4/21/2018 11:07:25 PM
+4/21/2018 11:07:25 PM
+Fetch user data returned : Sucess at 4/21/2018 11:07:25 PM
+4/21/2018 11:07:25 PM
+Fetch indents returned : Successful at 4/21/2018 11:07:28 PM
+4/21/2018 11:07:28 PM
+Fetch indents returned : Successful at 4/21/2018 11:07:28 PM
+4/21/2018 11:07:28 PM
+Fetch user data returned : Sucess at 4/21/2018 11:17:35 PM
+4/21/2018 11:17:35 PM
+Login operation returned :  at 4/21/2018 11:17:53 PM
+4/21/2018 11:17:53 PM
+Fetch user data returned : Sucess at 4/21/2018 11:17:53 PM
+4/21/2018 11:17:53 PM
+Fetch indents returned : Successful at 4/21/2018 11:17:56 PM
+4/21/2018 11:17:56 PM
+Fetch indents returned : Successful at 4/21/2018 11:17:57 PM
+4/21/2018 11:17:57 PM
+MFB upload process returned : Error occurred! Contact First Bank's support team. at 4/21/2018 11:19:19 PM
+4/21/2018 11:19:19 PM
+Fetch indents returned : Successful at 4/21/2018 11:22:59 PM
+4/21/2018 11:22:59 PM
+Fetch indents returned : Successful at 4/21/2018 11:22:59 PM
+4/21/2018 11:22:59 PM
+MFB upload process returned : Error occurred! Contact First Bank's support team. at 4/21/2018 11:24:34 PM
+4/21/2018 11:24:34 PM
+MFB upload process returned : Error occurred! Contact First Bank's support team. at 4/21/2018 11:27:44 PM
+4/21/2018 11:27:44 PM
+Login operation returned :  at 4/21/2018 11:41:32 PM
+4/21/2018 11:41:32 PM
+Fetch user data returned : Sucess at 4/21/2018 11:41:32 PM
+4/21/2018 11:41:32 PM
+Fetch indents returned : Successful at 4/21/2018 11:41:33 PM
+4/21/2018 11:41:33 PM
+Fetch indents returned : Successful at 4/21/2018 11:41:33 PM
+4/21/2018 11:41:33 PM
+MFB upload process returned : Error occurred! Contact First Bank's support team. at 4/21/2018 11:48:05 PM
+4/21/2018 11:48:05 PM
+Login operation returned :  at 4/21/2018 11:55:13 PM
+4/21/2018 11:55:13 PM
+Fetch user data returned : Sucess at 4/21/2018 11:55:13 PM
+4/21/2018 11:55:13 PM
+Fetch indents returned : Successful at 4/21/2018 11:55:15 PM
+4/21/2018 11:55:15 PM
+Fetch indents returned : Successful at 4/21/2018 11:55:15 PM
+4/21/2018 11:55:15 PM
+MFB upload process returned : 3 indents processed at 4/21/2018 11:56:09 PM
+4/21/2018 11:56:09 PM
+Fetch user data returned : Sucess at 4/22/2018 12:10:33 AM
+4/22/2018 12:10:33 AM
+Login operation returned :  at 4/22/2018 12:10:53 AM
+4/22/2018 12:10:53 AM
+Fetch user data returned : Sucess at 4/22/2018 12:10:53 AM
+4/22/2018 12:10:53 AM
+Fetch indents returned : Successful at 4/22/2018 12:10:55 AM
+4/22/2018 12:10:55 AM
+Fetch indents returned : Successful at 4/22/2018 12:10:56 AM
+4/22/2018 12:10:56 AM
+MFB upload process returned : 3 indents processed at 4/22/2018 12:13:08 AM
+4/22/2018 12:13:08 AM
+Fetch user data returned : Sucess at 4/22/2018 12:19:07 AM
+4/22/2018 12:19:07 AM
+Login operation returned :  at 4/22/2018 12:19:23 AM
+4/22/2018 12:19:23 AM
+Fetch user data returned : Sucess at 4/22/2018 12:19:23 AM
+4/22/2018 12:19:23 AM
+Fetch indents returned : Successful at 4/22/2018 12:19:25 AM
+4/22/2018 12:19:25 AM
+Fetch indents returned : Successful at 4/22/2018 12:19:25 AM
+4/22/2018 12:19:25 AM
+Fetch indents returned : Successful at 4/22/2018 12:23:52 AM
+4/22/2018 12:23:52 AM
+Fetch indents returned : Successful at 4/22/2018 12:24:21 AM
+4/22/2018 12:24:21 AM
+Fetch indents returned : Successful at 4/22/2018 12:25:10 AM
+4/22/2018 12:25:10 AM
+Fetch indents returned : Successful at 4/22/2018 12:25:10 AM
+4/22/2018 12:25:10 AM
+Fetch indents returned : Successful at 4/22/2018 12:26:12 AM
+4/22/2018 12:26:12 AM
+Fetch indents returned : Successful at 4/22/2018 12:26:12 AM
+4/22/2018 12:26:12 AM
+Fetch indents returned : Successful at 4/22/2018 12:27:33 AM
+4/22/2018 12:27:33 AM
+Fetch indents returned : Successful at 4/22/2018 12:27:33 AM
+4/22/2018 12:27:33 AM
+MFB upload process returned : 1 indents processed at 4/22/2018 12:30:17 AM
+4/22/2018 12:30:17 AM
+Login operation returned : Invalid username or password. at 4/22/2018 12:38:16 AM
+4/22/2018 12:38:16 AM
+Login operation returned :  at 4/22/2018 12:38:27 AM
+4/22/2018 12:38:27 AM
+Fetch user data returned : Sucess at 4/22/2018 12:38:27 AM
+4/22/2018 12:38:27 AM
+Fetch indents returned : Successful at 4/22/2018 12:38:29 AM
+4/22/2018 12:38:29 AM
+Fetch indents returned : Successful at 4/22/2018 12:38:29 AM
+4/22/2018 12:38:29 AM
+Fetch indents returned : Successful at 4/22/2018 12:40:25 AM
+4/22/2018 12:40:25 AM
+Fetch indents returned : Successful at 4/22/2018 12:40:26 AM
+4/22/2018 12:40:26 AM
+Fetch indents returned : Successful at 4/22/2018 12:42:32 AM
+4/22/2018 12:42:32 AM
+Fetch indents returned : Successful at 4/22/2018 12:42:32 AM
+4/22/2018 12:42:32 AM
+MFB upload process returned : 1 indents processed at 4/22/2018 12:43:48 AM
+4/22/2018 12:43:48 AM
+Fetch user data returned : Success at 4/22/2018 10:26:39 AM
+4/22/2018 10:26:39 AM
+Login operation returned :  at 4/22/2018 10:26:56 AM
+4/22/2018 10:26:56 AM
+Fetch user data returned : Success at 4/22/2018 10:26:56 AM
+4/22/2018 10:26:56 AM
+Fetch indents returned : Successful at 4/22/2018 10:27:01 AM
+4/22/2018 10:27:01 AM
+Fetch indents returned : Successful at 4/22/2018 10:27:01 AM
+4/22/2018 10:27:01 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:29:04 AM
+4/22/2018 10:29:04 AM
+Fetch user data returned : Success at 4/22/2018 10:34:23 AM
+4/22/2018 10:34:23 AM
+Login operation returned :  at 4/22/2018 10:34:48 AM
+4/22/2018 10:34:48 AM
+Fetch user data returned : Success at 4/22/2018 10:34:48 AM
+4/22/2018 10:34:48 AM
+Fetch indents returned : Successful at 4/22/2018 10:34:50 AM
+4/22/2018 10:34:50 AM
+Fetch indents returned : Successful at 4/22/2018 10:34:50 AM
+4/22/2018 10:34:50 AM
+Fetch indents returned : Successful at 4/22/2018 10:41:14 AM
+4/22/2018 10:41:14 AM
+Fetch indents returned : Successful at 4/22/2018 10:41:14 AM
+4/22/2018 10:41:14 AM
+Fetch user data returned : Success at 4/22/2018 10:46:39 AM
+4/22/2018 10:46:39 AM
+Login operation returned :  at 4/22/2018 10:47:03 AM
+4/22/2018 10:47:03 AM
+Fetch user data returned : Success at 4/22/2018 10:47:03 AM
+4/22/2018 10:47:03 AM
+Fetch indents returned : Successful at 4/22/2018 10:47:05 AM
+4/22/2018 10:47:05 AM
+Fetch indents returned : Successful at 4/22/2018 10:47:05 AM
+4/22/2018 10:47:05 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:47:31 AM
+4/22/2018 10:47:31 AM
+Fetch indents returned : Successful at 4/22/2018 10:47:59 AM
+4/22/2018 10:47:59 AM
+Fetch indents returned : Successful at 4/22/2018 10:48:00 AM
+4/22/2018 10:48:00 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:48:03 AM
+4/22/2018 10:48:03 AM
+Fetch indents returned : Successful at 4/22/2018 10:49:13 AM
+4/22/2018 10:49:13 AM
+Fetch indents returned : Successful at 4/22/2018 10:49:13 AM
+4/22/2018 10:49:13 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:49:26 AM
+4/22/2018 10:49:26 AM
+Fetch indents returned : Successful at 4/22/2018 10:50:38 AM
+4/22/2018 10:50:38 AM
+Fetch indents returned : Successful at 4/22/2018 10:50:38 AM
+4/22/2018 10:50:38 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:51:06 AM
+4/22/2018 10:51:06 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:51:49 AM
+4/22/2018 10:51:49 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:51:54 AM
+4/22/2018 10:51:54 AM
+Login operation returned :  at 4/22/2018 10:52:30 AM
+4/22/2018 10:52:30 AM
+Fetch user data returned : Success at 4/22/2018 10:52:30 AM
+4/22/2018 10:52:30 AM
+Fetch indents returned : Successful at 4/22/2018 10:52:32 AM
+4/22/2018 10:52:32 AM
+Fetch indents returned : Successful at 4/22/2018 10:52:32 AM
+4/22/2018 10:52:32 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:52:36 AM
+4/22/2018 10:52:36 AM
+Fetch indents returned : Successful at 4/22/2018 10:52:37 AM
+4/22/2018 10:52:37 AM
+Fetch indetns for encryption returned : No record currently available for processing. at 4/22/2018 10:52:44 AM
+4/22/2018 10:52:44 AM
+Fetch indents returned : Successful at 4/22/2018 10:52:44 AM
+4/22/2018 10:52:44 AM
+Login operation returned :  at 4/22/2018 10:54:23 AM
+4/22/2018 10:54:23 AM
+Fetch user data returned : Success at 4/22/2018 10:54:23 AM
+4/22/2018 10:54:23 AM
+Fetch indents returned : Successful at 4/22/2018 10:54:25 AM
+4/22/2018 10:54:25 AM
+Fetch indents returned : Successful at 4/22/2018 10:54:25 AM
+4/22/2018 10:54:25 AM
+Fetch indents returned : Successful at 4/22/2018 10:54:37 AM
+4/22/2018 10:54:37 AM
+Fetch indents returned : Successful at 4/22/2018 10:54:37 AM
+4/22/2018 10:54:37 AM

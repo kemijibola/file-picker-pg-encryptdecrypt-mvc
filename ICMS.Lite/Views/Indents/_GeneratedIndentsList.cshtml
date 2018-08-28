@@ -1,0 +1,46 @@
+﻿
+    <div class="table-responsive" style="font-size: 12px;">
+        <table id="tblIndents" class="table table-hover table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Indent id</th>
+                    <th>Account number</th>
+                    <th>Account name</th>
+                    <th>Sort code</th>
+                    <th>Cheque type</th>
+                    <th>No of leaves</th>
+
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <!-- Datatable jQuery  -->
+<script src="~/js/datatable/jquery.dataTables.min.js"></script>
+<script src="~/js/datatable/dataTables.bootstrap.min.js"></script>
+
+<script>
+    fetchData();
+    function fetchData() {
+        $.ajax({
+            url: '../Indents/GetAvailableIndentsForEncryption',
+            type: "GET",
+            success: function (result) {
+                var tblIndents = $("#tblIndents tbody");
+                tblIndents.empty();
+
+                $.each(result.Data, function (idx, elem) {
+                    tblIndents.append('<tr><td>' + elem.INDENT_ID + '</td><td>' + elem.ACCOUNTNUMBER + '</td><td>' + elem.ACCOUNTNAME + '</td><td>' + elem.SORTCODE + '</td><td>' + elem.CHEQUETYPE + '</td><td>' + elem.NOOFLEAVES + '</td></tr>')
+                })
+
+                $('#tblIndents').DataTable();
+            },
+            error: function (result) {
+                jAlert("Unable to fetch data.");
+            }
+        });
+    }
+    
+</script>
+

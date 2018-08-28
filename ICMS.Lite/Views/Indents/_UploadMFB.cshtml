@@ -1,0 +1,31 @@
+﻿
+    <div class="row">
+        <a href="~/MFB templates.xlsx" id="btnDownloadTemp" class="btn btn-primary pull-left" style="opacity: 1;">
+            <i class="fa fa-upload"></i> Download File
+        </a>
+    </div>
+    <div class="row">
+
+        <div class="form-group">
+            <div class="file-upload-wrapper">
+                <form enctfilesype="multipart/form-data" method="post" name="mfbTempForm">
+                    <input id="files" name="file" class="custom-file-upload-hidden" style="position: absolute; left: -9999px;" tabindex="-1" type="file" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+                </form>
+                
+                <input class="file-upload-input" type="text" id="selected">
+                <button type="button" id="btnUpload" class="file-upload-button" tabindex="-1">Upload a File</button>
+            </div>
+        </div>
+
+    </div>
+
+
+<input type="button" id="btnUploadExcel" class="hide" />
+
+
+
+
+
+
+
+

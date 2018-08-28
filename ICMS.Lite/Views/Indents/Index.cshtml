@@ -1,0 +1,109 @@
+﻿
+<div class="col-md-2"></div>
+<div class="col-md-8">
+    <!--	<h3>Dashboard</h3>-->
+    <div class="card">
+        <div class="card-header card-chart" data-background-color="green">
+            <p>Last batch ID generated <i>4 minutes ago</i></p>
+        </div>
+        <div class="card-content">
+            <button type="button" id="btngenerate" class="btn btn-success" style="opacity: 1;"><i class="fa fa-download"></i> Generate</button>
+            <button type="button" id="btnrpt" class="btn btn-info" style="opacity: 1;" data-toggle="modal" data-target="#reportmodal"><i class="fa fa-print"></i> Reports </button>
+            <button type="button" class="btn btn-warning pull-right" style="opacity: 1;" data-toggle="modal" data-target="#Uploadmodal"><i class="fa fa-upload"></i> Upload MFB</button>
+            <hr />
+            <h4 class="title"></h4>
+            <p class="category">
+                @Html.Partial("_GeneratedIndentsList")
+            </p>
+        </div>
+        <br />
+    </div>
+</div>
+
+<div class="modal fade" id="reportmodal" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <img src="~/images/icms-logo.png" /> | Search For Report
+                <button type="button" class="close" id="closeAmountAnalysis2" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="popup-modal-body">
+
+                @using (Ajax.BeginForm("GeneratedIndentsReports", "Reports",
+                    new AjaxOptions()
+                    {
+                        HttpMethod = "POST",
+                        OnSuccess = "OnSuccessful"
+                    }
+                    ))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="modal-body">
+                        <div class="form-group form-inline">
+                            <label for="startDate">Start Date</label>
+                            <input id="startDate" name="startDate" type="text" class="form-control" />
+                            &nbsp;
+                            <label for="endDate">End Date</label>
+                            <input id="endDate" name="endDate" type="text" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="batch_id">Batch ID: </label>
+                            <input id="batchId" type="text" class="form-control" />
+                        </div>
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-default waves-effect waves-light">Generate</button>
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-2"></div>
+<div id="Uploadmodal" class="modal fade" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <img src="~/images/icms-logo.png" /><br /> | Download & Upload Excel File
+                <button type="button" class="close" id="" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="popup-modal-body">
+                <div class="modal-body">
+                    
+                        @Html.Partial("_UploadMFB")
+                    
+                </div>
+            </div>
+                <div class="modal-footer">
+                    <button type="button" id="btnUploadFile" class="btn btn-default waves-effect waves-light">Upload</button>
+                    <button type="reset" id="btnCancelUpload" class="btn btn-danger waves-effect" data-dismiss="modal">Close</button>
+                    <button type="button" id="btnUpdateCancel" style="display:none" data-dismiss="modal">Close</button>
+                </div>
+
+
+            </div>
+    </div>
+</div>
+
+
+<script src="~/Scripts/Icms/Generic.js"></script>
+<script src="~/Scripts/Icms/indents.js"></script>
+<script src="~/Scripts/Icms/report.js"></script>
+
+<input type="button" id="btnProcessEncryption" class="hide" />
+
+<script>
+    
+    $(document).ready(function () {
+        new Indent();
+        new Report();
+    })
+</script>
+

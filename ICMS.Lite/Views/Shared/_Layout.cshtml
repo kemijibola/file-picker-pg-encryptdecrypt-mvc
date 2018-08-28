@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    @using Microsoft.AspNet.Identity
+    <title>ICMS Lite </title>
+
+    <link rel="stylesheet" href="~/custom-file-upload/css/style.css">
+    <!-- Bootstrap -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/sweet-alert.css" rel="stylesheet" />
+    <link href="~/css/timeout-dialog.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css">
+    <link href="~/css/icons.css" rel="stylesheet" type="text/css">
+    <link href="~/css/jAlert.css" rel="stylesheet" />
+
+    
+
+    <!-- Datatable Bootstrap -->
+    <link href="~/css/dataTables.bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap datePicker -->
+    <link rel="stylesheet" href="~/bootstrap-datepicker-date-range/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="~/bootstrap-datepicker-date-range/css/bootstrapValidator.min.css">
+
+    <!-- jQuery  -->
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+
+    <!-- datepicker jQuery  -->
+    <script src="~/bootstrap-datepicker-date-range/js/bootstrapValidator.min.js"></script>
+    <script src="~/bootstrap-datepicker-date-range/js/moment.min.js"></script>
+    <script src="~/bootstrap-datepicker-date-range/js/bootstrap-datetimepicker.min.js"></script>
+
+    <script src="~/Scripts/Icms/icms-script.js"></script>
+    <script src="~/js/sweet-alert.min.js"></script>
+    <script src="~/js/jquery.sweet-alert.init.js"></script>
+    @*<script src="~/Scripts/Icms/icms-script.js"></script>*@
+
+    
+
+</head>
+<body>
+    <div class="content-page">
+        <div class="container-fluid dashbg">
+            <div class="container">
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <div class="img2">
+                        <img src="~/images/fb-logos.png"> <span>ICMS</span>LTE
+                    </div>
+                </div>
+               
+               @if (Request.IsAuthenticated)
+               {
+                   using (Html.BeginForm("LogOut", "Home", FormMethod.Post, new { id = "logoutForm"}))
+                   {
+                    @Html.AntiForgeryToken()
+
+                    <div class="col-md-2"><a href="javascript:document.getElementById('logoutForm').submit()"><i class="fa fa-power-off logout"></i> <br />Logout</a></div>
+                   }
+               }
+
+                
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                    @RenderBody()
+            </div>
+        </div>
+
+
+
+        <footer class="footer-big">
+            <p>
+                © 2018. All rights reserved. ICMS Lite. <br>
+                Powered by <a target="_blank" href="http://www.thepfs.biz">Precise Financial Systems.</a>
+            </p>
+        </footer>
+    </div>
+
+    <!-- jQuery  -->
+    <script src="~/bootstrap-datepicker-date-range/js/index.js"></script>
+   
+
+    <script src="~/js/jquery.userTimeout.js"></script>
+
+
+    <script>
+    $(document).userTimeout({
+        logouturl: '@Url.Action("Login", "Home")',
+        modalTitle: 'Session Timeout',
+        modalBody: 'You\'re being timed out due to inactivity. Please choose to stay signed in or logoFF. Otherwise, you will be logged off automatically.',
+        notify: true,
+        timer: true,
+        session: 60000 * 5, // 5 minutes
+        force: 59000 * 1 // 1 minute
+    });
+    </script>
+    <div class="container">
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Modal Header</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>Some text in the modal.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <script src="~/js/jAlert.js"></script>
+    <script src="~/js/jAlert-functions.js"></script>
+    <script src="~/Scripts/Icms/jAlert.js"></script>
+
+    @*<script>
+        $(document).ready(function () {
+            $.jAlert({
+                'title': 'It works!',
+                'content': 'YAY!',
+                'theme': 'green',
+                'btns': { 'text': 'close' }
+            });
+        });
+    </script>*@
+</body>
+</html>
